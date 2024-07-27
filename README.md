@@ -35,7 +35,7 @@ This project aims to demystify blockchain technology by building one from scratc
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/blockchain-from-scratch.git
+   git clone https://github.com/khandelwaly940/blockchain-from-scratch.git
    cd blockchain-from-scratch
    ```
 
@@ -68,10 +68,6 @@ This project aims to demystify blockchain technology by building one from scratc
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
